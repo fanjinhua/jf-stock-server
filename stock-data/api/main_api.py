@@ -7,7 +7,7 @@ parent_dir = os.path.dirname(current_dir)
 sys.path.insert(0, parent_dir)
 
 from fastapi import FastAPI
-from push.ding_robot import DingRobotPusher
+from ding.ding_robot import DingRobotPusher
 
 app = FastAPI()
 

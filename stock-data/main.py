@@ -1,5 +1,5 @@
 
-from push.ding_robot import DingRobotPusher
+from ding.ding_robot import DingRobotPusher
 
 if __name__ == "__main__":
     pusher = DingRobotPusher()
