@@ -1,0 +1,8 @@
+"a": "RealRankingInfo",
+"c": "ZhiShuRanking", NewStockRanking
+"st": 20 // 分页size
+order：0正序，1倒序
+type： 排序， 1主力净额，4成交额，5区间涨幅，6涨幅，8主力卖，18换手率，10价格
+history_url = 'https://apphis.longhuvip.com/w1/api/index.php'
+实 时 龙 虎 榜行情url = 'https://apphwhq.longhuvip.com/w1/api/index.php'
+
